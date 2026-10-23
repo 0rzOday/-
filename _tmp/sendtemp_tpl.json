@@ -1,0 +1,12 @@
+{
+ "title": "%E9%A1%B6%E8%B1%A1%E9%AA%8C%E8%AF%81%E7%A0%81%20-%20%E6%99%BA%E8%83%BD%E6%97%A0%E6%84%9F%E9%AA%8C%E8%AF%81_%E6%BB%91%E5%8A%A8%E6%8B%BC%E5%9B%BE%E9%AA%8C%E8%AF%81%EF%BD%A2%E5%85%8D%E8%B4%B9%E4%BD%93",
+ "keywords": "%2C%E6%BB%91%E5%8A%A8%E6%8B%BC%E5%9B%BE%E9%AA%8C%E8%AF%81%E7%A0%81%2C%E6%BB%91",
+ "description": "%E6%8C%A1%E6%9C%BA%E5%99%A8%E9%A3%8E%E9%99%A9%E8%A1%8C%E4%B8%BA.%E5%85%8D%E8%B4%B9",
+ "viewport": "h%3D1280%2Cini",
+ "bodyLength": 138818,
+ "headLength": 155720,
+ "xpath": "/html/body/div[11]",
+ "x": 172,
+ "y": 53,
+ "fragment": "%3Cdiv%20class%3D%22wrapper-main%22%3E%3Cdiv%20class%3D%22wrapper%20wrapper-header%20fixed%22%3E%3Cdiv%20class%3D%22container%22%3E%3Ch1%20class%3D%22logo%20loaded%22"
+}
